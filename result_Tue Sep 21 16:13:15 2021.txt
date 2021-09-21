@@ -1,0 +1,31 @@
+
+en
+<string name="request_permission_background_location_title">Location access needed</string>
+<string name="request_permission_background_location_message_1">To see maps for tracked activities, allow %s to use your location all the time.</string>
+<string name="request_permission_background_location_message_2">%s collects location data to show walk, run and bike rides on a map even when the app is closed or not in use.</string>
+
+nl
+<string name="request_permission_background_location_title">Locatietoegang nodig</string>
+<string name="request_permission_background_location_message_1">Om kaarten voor gevolgde activiteiten te zien, laat %s uw locatie de hele tijd gebruiken.</string>
+<string name="request_permission_background_location_message_2">%s verzamelt locatiegegevens om wandel-, hardloop- en fietstochten op een kaart weer te geven, zelfs als de app is gesloten of niet in gebruik is.</string>
+
+fr
+<string name="request_permission_background_location_title">Accès à la localisation requis</string>
+<string name="request_permission_background_location_message_1">Pour voir les cartes des activités suivies, autorisez %s à utiliser votre position en permanence.</string>
+<string name="request_permission_background_location_message_2">%s collecte des données de localisation pour afficher les balades à pied, à pied et à vélo sur une carte même lorsque l'application est fermée ou non utilisée.</string>
+
+de
+<string name="request_permission_background_location_title">Standortzugriff erforderlich</string>
+<string name="request_permission_background_location_message_1">Um Karten für verfolgte Aktivitäten anzuzeigen, erlaube %s, deinen Standort die ganze Zeit zu verwenden.</string>
+<string name="request_permission_background_location_message_2">%s sammelt Standortdaten, um Geh-, Lauf- und Radtouren auf einer Karte anzuzeigen, auch wenn die App geschlossen oder nicht verwendet wird.</string>
+
+pl
+<string name="request_permission_background_location_title">Potrzebny dostęp do lokalizacji</string>
+<string name="request_permission_background_location_message_1">Aby zobaczyć mapy śledzonej aktywności, zezwól %s na używanie Twojej lokalizacji przez cały czas.</string>
+<string name="request_permission_background_location_message_2">%s zbiera dane o lokalizacji, aby pokazać na mapie spacery, biegi i przejażdżki rowerowe, nawet gdy aplikacja jest zamknięta lub nieużywana.</string>
+
+es
+<string name = "request_permission_background_location_title"> Se necesita acceso a la ubicación </string>
+<string name = "request_permission_background_location_message_1"> Para ver mapas de las actividades rastreadas, permite que% s use tu ubicación todo el tiempo. </string>
+<string name = "request_permission_background_location_message_2">% s recopila datos de ubicación para mostrar paseos, carreras y paseos en bicicleta en un mapa, incluso cuando la aplicación está cerrada o no está en uso. </string>
+

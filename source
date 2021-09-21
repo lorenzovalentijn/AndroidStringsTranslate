@@ -1,0 +1,3 @@
+<string name="request_permission_background_location_title">Location access needed</string>
+<string name="request_permission_background_location_message_1">To see maps for tracked activities, allow %s to use your location all the time.</string>
+<string name="request_permission_background_location_message_2">%s collects location data to show walk, run and bike rides on a map even when the app is closed or not in use.</string>
